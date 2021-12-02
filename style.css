@@ -98,7 +98,7 @@ font-weight: 400;
 
 .top__info-list li::before{
     content: "";   /* вставляет до контена что то, у нас ничего в данном случае */
-    background-image: url(../foto/list-icon.png); /* вставляем до контента цвет фона. в данном слче кртинку */
+    background-image: url(list-icon.png); /* вставляем до контента цвет фона. в данном слче кртинку */
     width: 13px; /* задаем размер вставки */
     height: 13px;
     position: absolute;
